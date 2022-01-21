@@ -49,9 +49,10 @@
   </a>
 </p>
 
-### පහළ තිබෙන "Queen Mizuki Website" නම් බටනය click කර අපගේ වෙබ් පිටුවට පිවිසීමෙන් ඔබට පහසුවෙන් Mizuki deploy කරගත හැක.
+### පහළ තිබෙන "Deploy in heroku" නම් බටනය click කර අපගේ වෙබ් පිටුවට පිවිසීමෙන් ඔබට පහසුවෙන් Mizuki deploy කරගත හැක.
 
-[![Website](https://telegra.ph/file/3aa63bc94120c24b16f5c.jpg)](https://mizuki.cf)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/SHANCER1/Mizuki)
+     </div>
 
 
 ---------------------------------   
