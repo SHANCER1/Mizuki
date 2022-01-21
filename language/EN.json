@@ -185,12 +185,12 @@
         "SONG_DESC": "Uploads the song you wrote.",
         "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Stay with Justin Bieber ```",
         "NO_RESULT": "```I couldn't find anything 🥲```",
-        "DOWNLOADING_SONG": "*🌝 Downloading your song...*",
-        "UPLOADING_SONG": "*🌚 Uploading your song...*",
+        "DOWNLOADING_SONG": "*°||✨"Downloading your song"✨||°*",
+        "UPLOADING_SONG": "*°||✨"Uploading your song"✨||°*",
         "VIDEO_DESC": "Downloads video from YouTube.",
         "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/R8r5tDZhT6k```",
-        "DOWNLOADING_VIDEO": "*🌝 Downloading your video...*",
-        "UPLOADING_VIDEO": "*🌚 Uploading your video...*",
+        "DOWNLOADING_VIDEO": "*°||✨"Downloading your video"✨||°*",
+        "UPLOADING_VIDEO": "*°||✨"Uploading your video"✨||°*",
         "YT_DESC": "It searchs on YouTube.",
         "NEED_WORDS": "```Please write a few words!```",
         "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -202,7 +202,7 @@
       },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
-            "NEED_REPLY": "*Reply to a photo or video!*",
+            "NEED_REPLY": "*ෆොටෝ එක දාල .sticker කියලා රිප්ලයි කරන්න,ෆොටෝ එකට👉👈!*",
             "DOWNLOADING": "```Media downloading & converting to sticker...```"
         },
         "system_stats": {
